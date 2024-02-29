@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Merry",
+        "age": 22,
+        "isMarried": false,
+        "subscription": {
+            "type": "yearly",
+            "renewalDate":{
+                "day": 23,
+                "month": "june",
+                "year": 2023
+            }
+        }
+    },
+    {
+        "name": "Shanks",
+        "age": 22,
+        "isMarried": false,
+        "subscription": {
+            "type": "yearly",
+            "renewalDate":{
+                "day": 23,
+                "month": "june",
+                "year": 2023
+            }
+        }
+    },
+    {
+        "name": "Roger",
+        "age": 22,
+        "isMarried": false,
+        "subscription": {
+            "type": "yearly",
+            "renewalDate":{
+                "day": 23,
+                "month": "june",
+                "year": 2023
+            }
+        }
+    },
+    {
+        "name": "Akainu",
+        "age": 22,
+        "isMarried": true,
+        "subscription": {
+            "type": "monthly",
+            "renewalDate":{
+                "day": 23,
+                "month": "june",
+                "year": 2023
+            }
+        }
+    },
+    {
+        "name": "Graps",
+        "age": 22,
+        "isMarried": true,
+        "subscription": {
+            "type": "monthly",
+            "renewalDate":{
+                "day": 23,
+                "month": "june",
+                "year": 2023
+            }
+        }
+    },
+    {
+        "name": "Rayleigh",
+        "age": 22,
+        "isMarried": true,
+        "subscription": {
+            "type": "monthly",
+            "renewalDate":{
+                "day": 23,
+                "month": "june",
+                "year": 2023
+            }
+        }
+    }
+]
